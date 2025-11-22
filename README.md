@@ -22,4 +22,4 @@ https://docs.google.com/presentation/d/1LtzyQAXbYXBJkjcjAwdutO5hUxt31in6/edit?us
 
 'Tennis Analysis' shows my reflective essay, which explores how video and data analysis can enhance performance understanding in elite sport.
 
-'VideoAnalysisAssessment1.R' shows my R code used to manipulate and visualise the data I collected from the video 
+'VideoAnalysisAssessment1.R' shows my R code used to manipulate and visualise the data I collected from the video.
