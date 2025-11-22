@@ -17,8 +17,8 @@ This project helped me strengthen my skills in:
 
 •	Critical reflection. 
 
-https://docs.google.com/presentation/d/1LtzyQAXbYXBJkjcjAwdutO5hUxt31in6/edit?usp=sharing&ouid=109860331730932248337&rtpof=true&sd=true
 Here is the link to the powerpoint analysis.
+https://docs.google.com/presentation/d/1LtzyQAXbYXBJkjcjAwdutO5hUxt31in6/edit?usp=sharing&ouid=109860331730932248337&rtpof=true&sd=true
 
 'Tennis Analysis' shows my reflective essay, which explores how video and data analysis can enhance performance understanding in elite sport.
 
